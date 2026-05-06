@@ -1,0 +1,6 @@
+{
+  "name": "Salt Lake PV Degradation Predictor",
+  "description": "Three-stage hybrid model for predicting photovoltaic panel degradation in salt lake environments with real-time parameter tuning and scenario analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
