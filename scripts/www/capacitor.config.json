@@ -1,0 +1,6 @@
+{
+  "appId": "com.pvdecay.app",
+  "appName": "PVDecayPredictor",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
